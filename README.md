@@ -1,8 +1,8 @@
 README
 =======
 
-> $ cabal install
-$ turing-machine-example
+    $ cabal install
+    $ turing-machine-example
 
 Running
 -------
